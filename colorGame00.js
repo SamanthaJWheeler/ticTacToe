@@ -5,7 +5,7 @@ const Board = () => {
     <div
       className="game-board"
       onClick={(e) => {
-        setPlayer(player + 1);
+        setPlayer(player ? 0:1);
         status = `Player ${player}`;
       }}
     >
