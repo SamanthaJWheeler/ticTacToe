@@ -1,0 +1,8 @@
+Project Title:
+    TicTacToe
+Project Purpose:
+    Utilize React states to learn how parent and child compoents share data.
+
+Roadmap of Future Improvements:
+    Add a scorecard to track how many games each player has won up to 10
+    Add a Next Game button that rerenders the board but keeps state of who won the last game
